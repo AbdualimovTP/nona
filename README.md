@@ -86,7 +86,9 @@ nona(data=YOUR_DATA, algreg=make_pipeline(StandardScaler(with_mean=False), Ridge
 
 [Framingham heart study dataset | Kaggle](https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset)
 
-![](https://i.ibb.co/Yb0YNqw/test-nona-fr.png)
+![](https://ltdfoto.ru/images/2023/01/08/test_nona_fr.png)
+
+
 
 Results of RMSE techniques for filling gaps depending on the percentage of missing values ​​in the dataset.
 
